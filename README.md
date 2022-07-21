@@ -1,4 +1,4 @@
-# Past-A-B-test
+# Site data policy disclaimer feature -A-B-test
 A/B test used in ROI calculation
 
 ## Purpose
